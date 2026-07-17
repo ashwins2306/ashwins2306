@@ -1,131 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=220&section=header&text=Ashwin%20Sundar%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Machine%20Learning%20%7C%20Information%20Security&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0033,50:4b0082,75:6a0dad,100:8a2be2&height=260&section=header&text=Hey,%20I'm%20Ashwin%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Securing%20Systems.%20Training%20Models.%20Breaking%20Things%20(Ethically).&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=M.Tech+in+Information+Security;Machine+Learning+%2B+Cybersecurity+Builder;Turning+Threat+Data+Into+Insight" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=M.Tech+Student+%40+Information+Security;ML+%2B+Cybersecurity+Enthusiast;Ex-Recruiter+%E2%86%92+Marketer+%E2%86%92+Security+Researcher;Currently+Hunting+Anomalies+in+Network+Traffic" alt="Typing SVG" />
 
 <br/>
 
 ![Academic](https://img.shields.io/badge/M.Tech-Information%20Security-6a0dad?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-4b0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Kerala%2C%20India-4b0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-8a2be2?style=for-the-badge&logo=target&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinsundarofficial125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2D0A4E?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-6A0DAD?style=for-the-badge)](#)
+[![Email](https://img.shields.io/badge/📧_Email-4B0082?style=for-the-badge)](mailto:ashwinsundarofficial125@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-2D0A4E?style=for-the-badge)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashwinsundars&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ashwinsundars?style=for-the-badge&color=6a0dad&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/ashwinsundars?style=for-the-badge&color=4b0082&label=STARS)
 
 </div>
 
----
+<br/>
 
-### About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-I'm a Machine Learning and Cybersecurity practitioner currently pursuing an **M.Tech in Information Security** at the College of Engineering, Trivandrum. My work centers on applying ML techniques to security problems — anomaly detection, biometric authentication, insider threat identification, and steganography.
+## 🕵️ A Little About Me
 
-Before moving into security-focused engineering, I spent time in **recruitment operations** and **marketing/video production**, which shaped a practical, cross-functional way of working — comfortable owning a process end-to-end, whether that's a hiring pipeline, a brand campaign, or a research prototype.
+```python
+class AshwinSundar:
+    def __init__(self):
+        self.role = "M.Tech Student, Information Security"
+        self.based_in = "Kerala, India"
+        self.background = ["Recruitment", "Marketing & Video Editing", "Applied ML/Security"]
+        self.focus = ["Intrusion Detection", "Biometric Security", "Applied Cryptography"]
+        self.currently_learning = "Advanced ML for network & biometric security"
+        self.fun_fact = "Went from screening candidates to screening network traffic"
 
-```yaml
-Currently:    Building ML-driven security tools as part of my M.Tech coursework
-Interested:   Intrusion detection, biometric security, applied cryptography
-Open To:      Internships and entry-level roles in ML Security / Cybersecurity / Data Science
+    def say_hi(self):
+        return "Let's build something secure 🔐"
 ```
 
----
+I didn't take the typical straight-line path into tech. I spent time in **talent acquisition** and **marketing & video production** before pivoting hard into **ML-driven cybersecurity** — now pursuing an M.Tech in Information Security and building projects across intrusion detection, biometric authentication, and applied cryptography.
 
-### Tech Stack
+That mixed background is actually my edge: I've run end-to-end hiring pipelines, managed brand campaigns under deadline pressure, and now I bring that same "own the whole process" mindset to security research and model-building.
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=8a2be2)
-![Java](https://img.shields.io/badge/Java-14151a?style=flat-square&logo=openjdk&logoColor=8a2be2)
+<br/>
 
-**Security & ML**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-14151a?style=flat-square&logo=hackthebox&logoColor=8a2be2)
-![Cryptography](https://img.shields.io/badge/Cryptography-14151a?style=flat-square&logo=letsencrypt&logoColor=8a2be2)
-![Network Security](https://img.shields.io/badge/Network%20Security-14151a?style=flat-square&logo=cisco&logoColor=8a2be2)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-14151a?style=flat-square&logo=scikitlearn&logoColor=8a2be2)
+## ⚡ Tech Arsenal
 
-**Tooling**
-![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=8a2be2)
-![Jupyter](https://img.shields.io/badge/Jupyter-14151a?style=flat-square&logo=jupyter&logoColor=8a2be2)
-![NumPy](https://img.shields.io/badge/NumPy-14151a?style=flat-square&logo=numpy&logoColor=8a2be2)
-![Pandas](https://img.shields.io/badge/Pandas-14151a?style=flat-square&logo=pandas&logoColor=8a2be2)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,git,githubactions,vscode,linux,jupyter&theme=dark" />
 
-### ML & Security Focus Areas
+</div>
 
-| Domain | Area of Work |
-|---|---|
-| Intrusion Detection | Anomaly-based threat detection in network environments |
-| Biometric Security | Facial recognition, keystroke dynamics, fingerprint spoofing detection |
-| Applied Cryptography | Steganography — encoding/decoding hidden data in audio |
-| Text Classification | Spam detection using classical ML (Naive Bayes) |
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
----
+**🧠 Core & ML**
+![Python](https://img.shields.io/badge/-Python-14151a?style=flat-square&logo=python&logoColor=A970FF)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-14151a?style=flat-square&logo=scikitlearn&logoColor=A970FF)
+![NumPy](https://img.shields.io/badge/-NumPy-14151a?style=flat-square&logo=numpy&logoColor=A970FF)
+![Pandas](https://img.shields.io/badge/-Pandas-14151a?style=flat-square&logo=pandas&logoColor=A970FF)
 
-### Featured Projects
+</td>
+<td valign="top" width="50%">
 
-<details>
+**🔐 Security**
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-14151a?style=flat-square&logo=hackthebox&logoColor=A970FF)
+![Network Security](https://img.shields.io/badge/-Network%20Security-14151a?style=flat-square&logo=cisco&logoColor=A970FF)
+![Cryptography](https://img.shields.io/badge/-Cryptography-14151a?style=flat-square&logo=letsencrypt&logoColor=A970FF)
+![Java](https://img.shields.io/badge/-Java-14151a?style=flat-square&logo=openjdk&logoColor=A970FF)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎯 What I Work On
+
+<div align="center">
+
+| 🛰️ Domain | 🔍 What It Involves |
+|:---|:---|
+| **Intrusion Detection** | Anomaly-based threat detection across network environments |
+| **Biometric Security** | Facial recognition, keystroke dynamics, fingerprint spoof detection |
+| **Applied Cryptography** | Steganography — hiding & recovering data inside audio files |
+| **Text Classification** | Spam/ham detection with classical ML models |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<details open>
 <summary><b>🛡️ Automated Cyber Threat Hunter Agent</b></summary>
 <br/>
 
-An ML-based anomaly detection solution for identifying suspicious activity in network environments, with a threat-scoring component to help prioritize alerts.
+> An ML-based anomaly detection system built to flag suspicious activity across network environments, with a threat-scoring layer to help prioritize what actually matters.
 
-| | |
-|---|---|
-| **Focus** | Anomaly Detection, Threat Scoring |
-| **Stack** | Python, Machine Learning |
-| **Domain** | Cybersecurity / Intrusion Detection |
-| **Repository** | _add link_ |
+`Python` `Machine Learning` `Intrusion Detection` `Threat Scoring`
+
+**Repo:** _add link_
 
 </details>
 
 <details>
-<summary><b>🎥 Classroom Student Attention Tracking using Facial Recognition</b></summary>
+<summary><b>🎥 Classroom Attention Tracking via Facial Recognition</b></summary>
 <br/>
 
-A biometric-enabled ML solution built for smart classrooms, using facial recognition to gauge student attention.
+> A biometric-enabled ML system for smart classrooms — uses facial recognition to gauge real-time student attention.
 
-| | |
-|---|---|
-| **Focus** | Biometric Trait Recognition |
-| **Stack** | Python, Machine Learning, Computer Vision |
-| **Domain** | Facial Recognition |
-| **Repository** | _add link_ |
+`Python` `Computer Vision` `Facial Recognition` `Biometric Traits`
+
+**Repo:** _add link_
 
 </details>
 
 <details>
-<summary><b>⌨️ Keystroke Based Insider Threat Detection</b></summary>
+<summary><b>⌨️ Keystroke-Based Insider Threat Detection</b></summary>
 <br/>
 
-An identification tool that uses keystroke dynamics as a biometric trait to flag potentially illegitimate users.
+> Uses keystroke dynamics as a behavioral biometric to flag potentially illegitimate users on a system.
 
-| | |
-|---|---|
-| **Focus** | Insider Threat Detection |
-| **Stack** | Python, Machine Learning |
-| **Domain** | Biometric Authentication |
-| **Repository** | _add link_ |
+`Python` `Machine Learning` `Behavioral Biometrics`
+
+**Repo:** _add link_
 
 </details>
 
 <details>
-<summary><b>🖐️ Fingerprint Spoofing Detection in Biometric Authentication Systems</b></summary>
+<summary><b>🖐️ Fingerprint Spoofing Detection</b></summary>
 <br/>
 
-An ML-based system for detecting spoofed fingerprints within biometric authentication pipelines.
+> An ML classifier that detects spoofed fingerprints within biometric authentication pipelines.
 
-| | |
-|---|---|
-| **Focus** | Spoof Detection |
-| **Stack** | Python, Machine Learning |
-| **Domain** | Biometric Security |
-| **Repository** | _add link_ |
+`Python` `Machine Learning` `Spoof Detection`
+
+**Repo:** _add link_
 
 </details>
 
@@ -133,63 +147,77 @@ An ML-based system for detecting spoofed fingerprints within biometric authentic
 <summary><b>📩 SMS Spam Detection</b></summary>
 <br/>
 
-A text classification model for detecting spam SMS messages using a Naive Bayes classifier.
+> A Naive Bayes text classifier trained to separate spam from legitimate SMS messages.
 
-| | |
-|---|---|
-| **Focus** | Text Classification |
-| **Stack** | Python, Naive Bayes |
-| **Domain** | Spam Detection |
-| **Repository** | _add link_ |
+`Python` `Naive Bayes` `NLP` `Text Classification`
+
+**Repo:** _add link_
 
 </details>
 
 <details>
-<summary><b>🔊 Audio Based Steganography</b></summary>
+<summary><b>🔊 Audio-Based Steganography</b></summary>
 <br/>
 
-An encryption/decryption tool for hiding data within audio files using LSB (Least Significant Bit) steganography.
+> Encrypts and hides data inside audio files using LSB (Least Significant Bit) steganography — with matching decryption/recovery.
 
-| | |
-|---|---|
-| **Focus** | Data Hiding |
-| **Stack** | Python, LSB Steganography |
-| **Domain** | Applied Cryptography |
-| **Repository** | _add link_ |
+`Python` `LSB Steganography` `Applied Cryptography`
+
+**Repo:** _add link_
 
 </details>
 
----
+<br/>
 
-### Experience
+## 💼 Experience
 
-**Sr. Recruitment Executive** — GreenBay IT Solutions
-*Jan 2025 – Jul 2025 · Trivandrum*
-Led end-to-end recruitment lifecycle across multiple business units — manpower planning, sourcing, screening, interviewing, offer negotiation, and onboarding.
+<table>
+<tr>
+<td width="12%" valign="top"><b>2025</b></td>
+<td>
+<b>Sr. Recruitment Executive</b> · GreenBay IT Solutions <i>(Jan – Jul 2025, Trivandrum)</i><br/>
+Led end-to-end recruitment lifecycle for multiple business units — manpower planning, sourcing, screening, interviewing, offer negotiation, and onboarding.<br/><br/>
+<code>Talent Acquisition</code> <code>Stakeholder Management</code> <code>Process Ownership</code>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>2022–23</b></td>
+<td>
+<b>Sr. Marketing Executive & Video Editor</b> · TL Technologies Pvt Ltd <i>(Mar 2022 – Jun 2023, Trivandrum)</i><br/>
+Co-led the marketing team to grow client business and brand visibility; created brand-focused visuals and managed post-production and motion graphics.<br/><br/>
+<code>Content Strategy</code> <code>Video Production</code> <code>Brand Growth</code>
+</td>
+</tr>
+</table>
 
-`Talent Acquisition` `Stakeholder Management` `Process Ownership`
+<br/>
 
-**Sr. Marketing Executive & Video Editor** — TL Technologies Pvt Ltd
-*Mar 2022 – Jun 2023 · Trivandrum*
-Co-led the marketing team to grow client business and brand visibility; created brand-focused visuals and managed post-production and motion graphics.
+## 🎓 Education
 
-`Content Strategy` `Video Production` `Brand Growth`
+<table>
+<tr>
+<td width="12%" valign="top">🎓</td>
+<td><b>M.Tech, Information Security</b> — College of Engineering, TVM <i>(Aug 2025 – Present, Kerala)</i></td>
+</tr>
+<tr>
+<td valign="top">🎓</td>
+<td><b>B.Tech, Computer Science & Engineering</b> — ST Thomas Institute for Science and Technology <i>(Aug 2018 – May 2022, Kerala)</i></td>
+</tr>
+</table>
 
----
+<br/>
 
-### Certifications
+## 🏅 Certifications
 
-> _No certifications listed yet — add badges here as you complete them (e.g. AWS, Oracle, NPTEL, Cisco)._
+> _Nothing listed yet — drop your AWS / Oracle / NPTEL / Cisco badges here once you've got them._
 
----
+## 👨‍💻 Coding Profiles
 
-### Coding Profiles
+> _Add your LeetCode / GeeksforGeeks / HackerRank / CodeChef links here to light up these badges._
 
-> _Add your LeetCode / GeeksforGeeks / HackerRank / CodeChef profile links here to enable live badges._
+<br/>
 
----
-
-### GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -200,50 +228,50 @@ Co-led the marketing team to grow client business and brand visibility; created 
 
 </div>
 
-### GitHub Trophies
-
+<details>
+<summary>🏆 Trophy Case</summary>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ashwinsundars&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </div>
+</details>
 
-### Contribution Activity
-
+<details>
+<summary>📈 Contribution Activity</summary>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinsundars&theme=redical&bg_color=0d0221&color=a970ff&line=8a2be2&point=ffffff" width="90%"/>
 </div>
-
-### Contribution Snake
+</details>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ashwinsundars/ashwinsundars/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
----
+<br/>
 
-### Current Focus
+## 🧭 Current Focus
 
 ```yaml
-Learning:    Advanced ML techniques for biometric & network security
-Building:    A portfolio of applied security ML projects
-Exploring:   Cryptography, intrusion detection systems, insider threat modeling
-Open To:     Internships & entry-level roles in ML Security / Data Science
+Learning:    Advanced ML for network & biometric security
+Building:    A stronger portfolio of applied security ML projects
+Exploring:   Applied cryptography, insider threat modeling
+Open To:     Internships & entry-level roles in ML Security / Cybersecurity / Data Science
 ```
 
----
+<br/>
 
-### Connect
+## 📬 Let's Connect
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ashwinsundarofficial125%40gmail.com-4b0082?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinsundarofficial125@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6a0dad?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-2d0a4e?style=flat-square&logo=github&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8a2be2?style=flat-square&logo=vercel&logoColor=white)](#)
 
----
+<br/>
 
-<div align="center">
+*"From screening resumes to screening packets — same instinct, sharper tools."*
 
-*"Security isn't a feature — it's a discipline."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:4b0082,100:1a0033&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:4b0082,100:0d0221&height=140&section=footer" width="100%"/>
 
 </div>
