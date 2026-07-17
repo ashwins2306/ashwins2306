@@ -35,13 +35,13 @@ That mixed background is actually my edge: I've run end-to-end hiring pipelines,
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,git,githubactions,vscode,linux,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,githubactions,vscode,linux,jupyter&theme=dark" />
 
 </div>
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 **🧠 Core & ML**
 ![Python](https://img.shields.io/badge/-Python-14151a?style=flat-square&logo=python&logoColor=A970FF)
@@ -50,13 +50,12 @@ That mixed background is actually my edge: I've run end-to-end hiring pipelines,
 ![Pandas](https://img.shields.io/badge/-Pandas-14151a?style=flat-square&logo=pandas&logoColor=A970FF)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 **🔐 Security**
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-14151a?style=flat-square&logo=hackthebox&logoColor=A970FF)
 ![Network Security](https://img.shields.io/badge/-Network%20Security-14151a?style=flat-square&logo=cisco&logoColor=A970FF)
 ![Cryptography](https://img.shields.io/badge/-Cryptography-14151a?style=flat-square&logo=letsencrypt&logoColor=A970FF)
-![Java](https://img.shields.io/badge/-Java-14151a?style=flat-square&logo=openjdk&logoColor=A970FF)
 
 </td>
 </tr>
@@ -237,10 +236,10 @@ Co-led the marketing team to grow client business and brand visibility; created 
 ## 🧭 Current Focus
 
 ```yaml
-Learning:    Advanced ML for network & biometric security
-Building:    A stronger portfolio of applied security ML projects
-Exploring:   Applied cryptography, insider threat modeling
-Open To:     Internships & entry-level roles in ML Security / Cybersecurity / Data Science
+Learning:    Advanced ML for Cybersecurity
+Building:    ML influene in Cybersecurity
+Exploring:   Integration of AI in Cybersecurity
+Open To:     Internships & entry-level roles in Security / Cybersecurity / Security Analyst
 ```
 
 <br/>
@@ -250,7 +249,7 @@ Open To:     Internships & entry-level roles in ML Security / Cybersecurity / Da
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ashwinsundarofficial125%40gmail.com-4b0082?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinsundarofficial125@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6a0dad?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6a0dad?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-sundar-s-109417229/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-2d0a4e?style=flat-square&logo=github&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8a2be2?style=flat-square&logo=vercel&logoColor=white)](#)
 
