@@ -202,36 +202,6 @@ Co-led the marketing team to grow client business and brand visibility; created 
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinsundars&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a970ff&icon_color=8a2be2&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinsundars&theme=radical&hide_border=true&background=0d0221&stroke=8a2be2&ring=a970ff&fire=a970ff" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsundars&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a970ff&text_color=ffffff" width="48%"/>
-
-</div>
-
-<details>
-<summary>🏆 Trophy Case</summary>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashwinsundars&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</div>
-</details>
-
-<details>
-<summary>📈 Contribution Activity</summary>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinsundars&theme=redical&bg_color=0d0221&color=a970ff&line=8a2be2&point=ffffff" width="90%"/>
-</div>
-</details>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ashwinsundars/ashwinsundars/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-
-<br/>
 
 ## 🧭 Current Focus
 
