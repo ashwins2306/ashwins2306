@@ -25,20 +25,6 @@
 
 ## 🕵️ A Little About Me
 
-```python
-class AshwinSundar:
-    def __init__(self):
-        self.role = "M.Tech Student, Information Security"
-        self.based_in = "Kerala, India"
-        self.background = ["Recruitment", "Marketing & Video Editing", "Applied ML/Security"]
-        self.focus = ["Intrusion Detection", "Biometric Security", "Applied Cryptography"]
-        self.currently_learning = "Advanced ML for network & biometric security"
-        self.fun_fact = "Went from screening candidates to screening network traffic"
-
-    def say_hi(self):
-        return "Let's build something secure 🔐"
-```
-
 I didn't take the typical straight-line path into tech. I spent time in **talent acquisition** and **marketing & video production** before pivoting hard into **ML-driven cybersecurity** — now pursuing an M.Tech in Information Security and building projects across intrusion detection, biometric authentication, and applied cryptography.
 
 That mixed background is actually my edge: I've run end-to-end hiring pipelines, managed brand campaigns under deadline pressure, and now I bring that same "own the whole process" mindset to security research and model-building.
